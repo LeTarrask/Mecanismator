@@ -57,6 +57,7 @@ function handleText(textNode)
 	v = v.replace(/\Marcelo Odebrecht\b/g, "Ricardo Brecht");
 	v = v.replace(/\bJaponês da Federal\b/g, "China");
 	v = v.replace(/\bMichel Temer\b/g, "Samuel Thames");
+	v = v.replace(/\Temer\b/g, "Thames");
 	v = v.replace(/\bMárcio Thomaz Bastos\b/g, "Mário Garcez Brito");	
 	v = v.replace(/\bCarlos Habib Chater\b/g, "Chebab");
 	v = v.replace(/\bMarici\b/g, "Samira");
