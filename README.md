@@ -3,7 +3,7 @@ Mecanismator
 
 Mecanismator is a Chrome plugin to replace the names of real politicians and corrupts in general with their fictional counterparts in Netflix and José Padilha's series The Mechanism.
 
-You can install it here: <a href="https://chrome.google.com/webstore/detail/mecanismator/bnolndajfgedkahklepgbcenbpgncgne">M</>
+You can install it here: <a href="https://chrome.google.com/webstore/detail/mecanismator/bnolndajfgedkahklepgbcenbpgncgne">Mecanismator</a>
 
 <img src="https://github.com/LeTarrask/Mecanismator/blob/master/images/screenshot1.png" alt="" width="" height="" border="" align="" />
 <img src="https://github.com/LeTarrask/Mecanismator/blob/master/images/screenshot2.png" alt="" width="" height="" border="" align="" />
